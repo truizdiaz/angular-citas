@@ -13,4 +13,8 @@ export class AppComponent {
     this.listCitias.push(cita);
     console.log(this.listCitias);
   }
+
+  eliminarCitaListado(index: number) {
+    this.listCitias.splice(index, 1);
+  }
 }
