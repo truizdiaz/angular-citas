@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "citas"
+  "defaultProject": "citas",
+  "cli": {
+    "analytics": "c812cac2-3519-4bb6-92b1-264928ec1a11"
+  }
 }
